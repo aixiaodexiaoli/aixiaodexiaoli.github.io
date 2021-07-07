@@ -1,0 +1,179 @@
+body{
+    background: url(../img/img1-1.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    margin: auto;
+    color:rgb(136, 101, 101);
+}
+
+.header{
+    width:100%;
+    height:150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.title{
+    color: beige;
+}
+
+.word1{
+    color:beige;
+}
+
+.main{
+    width:100%;
+    height:900px;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: snow;
+}
+
+.con{
+    margin:auto;
+    text-align: center;
+    height:100%;
+    width:1500px;
+}
+
+.left{
+    float:left;
+    width:22%;
+    text-align: left;
+}
+
+.right{
+    float:right;
+    width:70%;
+}
+
+.one{
+    padding-top: 30px;
+}
+
+.img1-1{
+    margin-top: 20px;
+}
+
+.two{
+    float:left;
+    width:50%;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.two-1{
+    padding-top: 20px;
+}
+
+.t1{
+    border-bottom:dashed salmon;
+    line-height: 1.8;
+}
+
+.t2{
+    line-height: 1.8;
+}
+
+.wordtit{
+    font-size: 18px;
+}
+
+.three{
+    float:right;
+    width:40%;
+}
+
+.three-1{
+    padding-top: 50px;
+}
+
+.up{
+    margin-bottom: 60px;
+}
+
+.down{
+    margin:auto;
+    text-align: center;
+}
+
+.list{
+    margin-top: 17px;
+}
+
+.tblOne{
+    font-size: 16px;
+    line-height: 2.0;
+    border:dashed rgb(112, 55, 48);
+    border-width: 1px 0px 0px 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    box-sizing: border-box;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 34px;
+    overflow:hidden;
+}
+
+tr{
+    display:table-row;
+    vertical-align:inherit;
+    border-color:inherit;
+    height:37px;
+}
+
+td{
+border: dashed rgb(112, 55, 48);
+border-width: 0px 1px 1px 0px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 2px;
+padding-bottom: 2px;
+width:33%;
+font-size: 14px;
+font-family: "SimSun";
+line-height: 2.0;
+}
+
+.tblHead{
+    text-align: left;
+}
+
+.tblEnd{
+    text-align: right;
+}
+
+.tblEnd a{
+    text-decoration: none;
+    color:rgb(136, 101, 101);
+}
+
+.dul{  
+    text-align: left;
+}
+
+.dli{
+    list-style-type:square ;
+    line-height: 1.5;
+    width:100%;
+    height:65px;
+}
+
+.dli a{
+    color:seashell;
+    background-color: rgb(165, 72, 62);
+}
+
+h3{
+    color:seashell;
+    background-color: rgb(165, 72, 62);
+    text-align: center;
+}
+
+.last{
+    text-align: center;
+    height:100px;
+}

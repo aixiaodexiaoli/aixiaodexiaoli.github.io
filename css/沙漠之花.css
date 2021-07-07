@@ -1,0 +1,35 @@
+.header{
+    background-color:moccasin ;
+}
+
+.main{
+    text-align: center;
+}
+
+.first{
+
+}
+
+.photo1{
+    float: left;
+}
+
+.words1{
+    height:300px;
+}
+
+.second{
+
+}
+
+.photo2{
+    float: right;
+}
+
+.third{
+
+}
+
+.photo3{
+    float: left;
+}

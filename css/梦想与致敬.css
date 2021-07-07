@@ -1,0 +1,215 @@
+body{
+    height:1350px;
+    background-image:  url(../img/F-4.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+.con{
+    width: 100%;
+    margin: 0 auto; 
+}
+
+.first{
+    width:70%;
+    height:500px;
+    text-align: center;
+    margin:0px;
+    margin-top: 220px;
+}
+
+.main{
+    width:1000px;
+    height:1000px;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.one{
+    height:550px;
+    background-color:floralwhite;
+    padding:50px;
+    padding-bottom:5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+.two{
+    line-height: 2;
+    border:dashed darkslateblue;
+}
+
+.img2{
+    float:left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.one-21{
+    width:500px;
+    float: right;
+}
+
+.two{
+    background-color:floralwhite;
+    padding-top:20px;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    padding-right: 70px;
+    margin-bottom: 20px;
+}
+
+.boradside{
+    position: fixed;
+    top: 255px;
+    left: 130px;
+    float:left;
+    width:240px;
+    text-align: center;
+}
+
+.b-one{
+    height:158x;
+    border-style:inset;
+    border-width:thick;
+}
+
+.ul2{
+    height:154px;
+    border-top: none;
+    border-bottom: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin:0px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "SimSun";
+    color:floralwhite;
+    border-color: #ddd;
+    display: block;
+}
+
+.li2{
+    width: 100%;
+    border-bottom-style:solid;
+    border-width:3px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.li3{
+    width: 100%;
+    cursor: pointer;
+    border-bottom-style:dashed;
+    border-width:1px;
+}
+
+.li3 a{
+    line-height: 42px;
+    margin:0px;
+    padding:0px;
+    border-top: none;
+}
+
+.li3 a:hover {
+    background-color: rgb(9, 78, 78);
+}
+
+.share{
+    float:right;
+    margin-bottom: 20px;
+    margin-right: 60px;
+    width:300px;
+}
+
+.headCon{
+    text-align: left;
+    line-height: 25px;
+}
+
+.formA{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}  
+
+.A{
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.middle{
+    width: 100%;
+    margin: 0 auto 10px auto;
+    border: 1px solid ;
+    padding: 1px;
+    background-color:rgb(207, 185, 149);
+}
+
+.question1{
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold;
+    background-color:rgb(172, 154, 126);
+    text-align: left;
+    padding: 6px 10px;
+}
+
+.choices1{
+    padding: 11px 24px 16px 37px;
+    text-align: left;
+    line-height:20px;
+}
+
+.textAnswer{
+    height:80px;
+    text-align: left;
+    background-color:rgb(172, 154, 126);
+}
+
+.txt{
+    height:95%;
+    width:97%;
+    background-color:rgb(207, 185, 149);
+}
+
+.formEnd{
+    height:30px;
+    border: 1px solid rgb(172, 154, 126);
+    border-collapse: separate;
+    padding: 0.5px;
+    text-align: center;
+}
+
+.bottom{
+    height:30px;
+    width: 100%;
+    margin: 0;
+    background-color: rgb(172, 154, 126);
+}
+
+.sub{
+    width:50px;
+    height:30px;
+    border: 1px solid rgb(9, 78, 78);
+    background:rgb(207, 185, 149);
+    font-weight: bold;
+    font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;
+    font-size: 1.1em;
+    color: #0070a3;
+    border-collapse: separate;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    cursor: pointer;
+}
+
+.one-21 p{
+    text-align:left;
+}

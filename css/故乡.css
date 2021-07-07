@@ -1,0 +1,171 @@
+body{
+    height:2600px;
+    background-image:  url(../img/fiv3.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+.con{
+    width: 100%;
+    margin: 0 auto; 
+}
+
+.first{
+    height:500px;
+    margin-top: 30px;
+}
+
+.main{
+    margin: 0 auto;
+    text-align: center;
+    width:1000px;
+    height:2400px;
+    margin-top: 180px;
+}
+
+.one{
+    background-color:seashell;
+    padding-top:2px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.one-1{
+    margin-left:50px;
+}
+
+.img2{
+    float:left;
+}
+
+.two{
+    background-color:seashell;
+    padding-top:20px;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    padding-right: 70px;
+    margin-bottom: 20px;
+}
+
+.two-1{
+    float:left;
+    margin-top: 45px;
+    margin-left: 30px;
+    margin-right: 70px;
+}
+
+.two-2{
+    margin-right: 0;
+}
+
+.three{
+    height:600px;
+    background-color:seashell;
+    padding-top: 2px;
+}
+
+.three-2{
+    height:470px;
+}
+
+.fir{
+    border-style:solid;
+    border-width:medium;
+    width:290px;
+    height:470px;
+    float: left;
+    margin-left: 40px;
+}
+
+.sen{
+    height:80px;
+    float:right;
+}
+
+.sen-1{
+    border-style:solid;
+    border-width:medium;
+    width:290px;
+    height:470px;
+    float:left;
+    margin-right: 15px;
+}
+
+.sen-2{
+    border-style:solid;
+    border-width:medium;
+    width:290px;
+    height:470px;
+    float:right;
+    margin-right: 40px;
+}
+
+.img7{
+    margin-top: 40px;
+}
+
+.boradside{
+    position: fixed;
+    top: 205px;
+    left: 70px;
+    margin-left: 50px;
+    float:left;
+    width:200px;
+    text-align: center;
+}
+
+.b-one{
+    height:232px;
+    border-style:inset;
+    border-width:thick;
+}
+
+.ul2{
+    height:232px;
+    border-top: none;
+    border-bottom: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin:0px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "SimSun";
+}
+
+.li2{
+    color:floralwhite;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    border-bottom-style:solid;
+    border-width:3px;
+    border-color: #ddd;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+.li3{
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    border-bottom-style:dashed;
+    border-width:1px;
+    border-color: #ddd;
+}
+
+.li3 a{
+    line-height: 42px;
+    margin:0px;
+    padding:0px;
+    color:floralwhite;
+    border-top: none;
+}
+
+.li3 a:hover {
+    color:floralwhite;
+    background-color:thistle;
+}
+
